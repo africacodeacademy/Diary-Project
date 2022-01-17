@@ -14,7 +14,7 @@ This project should help you with the fundamentals of Javascripts as it is to be
 
 **Bonus**: 
 
-You can use mongo, supabase or firebase to store your data.
+You can use mongo, supabase or firebase to store your data. Make the web app allow multiple users, or do whatever you want
 
 **Submission**
 
