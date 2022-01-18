@@ -2,7 +2,7 @@
 ![Dear Diary](https://user-images.githubusercontent.com/9503503/149843586-f129cfaa-35f5-46cd-9571-21668026aab7.jpeg)
 
 
-This project should help you with the fundamentals of Javascripts as it is to be done in vanilla Javascript, CSS and HTML. Do NOT use any framework
+This project should help you with the fundamentals of Javascript as it is to be done in vanilla Javascript, CSS and HTML. Do NOT use any framework
 
 ## Instructions
 - The web app should allow users to create daily stories and must include the date the entry was made. Users should also be able to bookmark stories. The stories should be sorted according to the date that they were added. A story should have the following data
