@@ -20,7 +20,7 @@ You can use mongo, supabase or firebase to store your data. Make the web app all
 
 **Submission**
 
-You are expected to submit your code via github and have a deployed version on one of the following free hosting services: Netlify, Vercel, Heroku, Firebase or any other platform of your choice.
+You are expected to submit your code via github and have a deployed version on Heroku. There will be daily check ins with your leads to keep track of your progress.
 
 **Lesson** : This will help them use arrays and array functions which are commonly used in React. The functions that are expected to be used are map, reduce, filter, event handling, forms, etc.
 
